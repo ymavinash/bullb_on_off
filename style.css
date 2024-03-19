@@ -1,0 +1,22 @@
+.PICS{
+    margin-left: 570px;
+    
+}
+#on,#off{
+    height: 40px;
+    width: 150px;
+    margin-right: 50px;
+}
+body{
+background: black;
+}
+img{
+    margin-left: 500px;
+    height: 645px;
+    width: 494px;
+}
+h1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 50px;
+}
